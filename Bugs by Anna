@@ -1,0 +1,10 @@
+First time using Github so I'm not sure if I'm doing this right:
+
+-When setting a large tree on fire, the fire will spawn in water blocks, removing them.
+-Reeds can only be placed on water 'source' blocks. When filling spaces with water, the blocks will look static/like source blocks, but they are not, preventing reed placement
+-Reeds placed in water next to farmland blocks prevent them from receiving hydration/dry out the farmland
+-Standing in front of a 1 block wide doorway/gap and attempting to throw a rock through it will often result in hitting yourself instead
+-Berry bushes placed on barren dirt blocks will prevent grass from growing underneath
+-Shade created by having large trees does not disappear after the trees are gone - The light engine does not update the light after the trees are felled
+-If your inventory is extended past what the GUI allows (With mods), you cannot scroll down through it.
+-Sun moves along North/South axis, not East/West
