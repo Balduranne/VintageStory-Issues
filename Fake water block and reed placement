@@ -1,0 +1,1 @@
+-Reeds can only be placed on water 'source' blocks. When filling spaces with water, the blocks will look static/like source blocks, but they are not, preventing reed placement
